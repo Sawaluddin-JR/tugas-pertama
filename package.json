@@ -1,0 +1,11 @@
+{
+  "name": "tugas-1",
+  "version": "1.0.0",
+  "description": "tugas pertama saya di pelatihan React Js",
+  "main": "soal-1.js",
+  "scripts": {
+    "mulai": "soal-1.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
