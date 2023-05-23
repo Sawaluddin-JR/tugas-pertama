@@ -4,7 +4,7 @@
   "description": "tugas pertama saya di pelatihan React Js",
   "main": "soal-1.js",
   "scripts": {
-    "mulai": "soal-1.js"
+    "mulai": "soal-1.js && soal-2.js"
   },
   "author": "",
   "license": "ISC"
